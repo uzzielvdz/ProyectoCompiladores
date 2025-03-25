@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a simple compiler developed in Java. Its purpose is to analyze and compile source code written in a C#-like programming language. The compiler uses tools like JFlex for the lexer and a Swing-based graphical user interface (GUI) for user interaction.
+This project is a code analysis tool developed in Java. It is designed to analyze and process source code written in a C#-like programming language. The tool utilizes JFlex for lexical analysis and features a Swing-based graphical user interface (GUI) for user interaction. While it does not function as a full compiler, it provides lexical and syntactic analysis, error detection, and code documentation capabilities.
 
 The compiler features lexical, syntactical, and semantic analysis and is designed to help users understand how different stages of a compiler work in a simple and educational context.
 
