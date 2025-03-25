@@ -12,7 +12,8 @@ The compiler features lexical, syntactical, and semantic analysis and is designe
 - **Graphical User Interface**: Built with Swing, allowing users to interact with the compiler through a GUI.
 - **Syntax Highlighting**: Uses the lexical analysis to display the source code with color highlighting for keywords, operators, comments, etc.
 - **Error Detection**: Displays lexical and syntactical errors in the GUI.
-- **C# Compatibility**: The compiler is tailored to handle a subset of C# syntax.
+- **C# Compatibility**: The analysis tool is tailored to handle a subset of C# syntax.
+- **Generation of PDF documentation**
 
 ## Requirements
 
